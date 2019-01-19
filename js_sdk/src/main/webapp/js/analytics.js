@@ -48,7 +48,7 @@
 	var tracker = {
 			// config
 			clientConfig: {
-				serverUrl: "http://192.168.216.123/index.html",
+				serverUrl: "http://192.168.80.20:8090/index.html",
 				sessionTimeout: 360, // 360s -> 6min
 				maxWaitTime: 3600, // 3600s -> 60min -> 1h
 				ver: "1"
